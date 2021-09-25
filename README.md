@@ -11,7 +11,7 @@ So we asked ourselves, how is United States and California contributing to the e
 
 ## Project Description
 
-The goal of this project is to analyze and visualize all the data collected to represent the Renewable Energy in CA, Energy Production of US and CA and CO2 Emissions from CA and US from at least the last 10 years.
+The goal of this project is to analyze and visualize all the data collected to represent the Renewable Energy in CA, Energy Production of US and CA and CO2 Emissions from CA and US from at least the last 10 years. 
 
 
 
@@ -31,7 +31,10 @@ The goal of this project is to analyze and visualize all the data collected to r
 ### Images
 All png images created for this project
 ### Resources
-
+* [Net_generation_for_electric_power.csv](https://github.com/DylanRCastillo/CA-US-Emissions-and-Energy-Production/blob/main/Resources/Net_generation_for_electric_power.csv)
+* [ca_emissions.csv](https://github.com/DylanRCastillo/CA-US-Emissions-and-Energy-Production/blob/main/Resources/ca_emissions.csv)
+* [ca_energy_gen.csv](https://github.com/DylanRCastillo/CA-US-Emissions-and-Energy-Production/blob/main/Resources/ca_energy_gen.csv)
+* [use_tot_realgdp.csv](https://github.com/DylanRCastillo/CA-US-Emissions-and-Energy-Production/tree/main/Resources#:~:text=1%20hour%20ago-,use_tot_realgdp.csv,-Merging%20and%20cleaning)
 
 ## Reference
 

@@ -20,10 +20,21 @@ The goal of this project is to analyze and visualize all the data collected to r
 
 
 
-Team Members DylanRCastillo, Rlizaran, brus041 and ShaunOchenduszko
+## Libraries Required
+* matplotlib
+* pandas
+* numpy
+* scipy.stats
+* os
 
-Reference
+## File Description
+### Images
+All png images created for this project
+### Resources
 
-Austin III, Lloyd J. "Statement By Secretary Of Defense Lloyd J. Austin III On Tackling The Climate Crisis At Ho". U.S. Department Of Defense, 2021, https://www.defense.gov/News/Releases/Release/Article/2484504/statement-by-secretary-of-defense-lloyd-j-austin-iii-on-tackling-the-climate-cr/.
-"The Causes Of Climate Change". Climate Change: Vital Signs Of The Planet, 2021, https://climate.nasa.gov/causes/.
-"What Is Net Zero? - Net Zero Climate". Net Zero Climate, 2021, https://netzeroclimate.org/what-is-net-zero/.
+
+## Reference
+
+* Austin III, Lloyd J. "Statement By Secretary Of Defense Lloyd J. Austin III On Tackling The Climate Crisis At Ho". U.S. Department Of Defense, 2021, https://www.defense.gov/News/Releases/Release/Article/2484504/statement-by-secretary-of-defense-lloyd-j-austin-iii-on-tackling-the-climate-cr/.
+* "The Causes Of Climate Change". Climate Change: Vital Signs Of The Planet, 2021, https://climate.nasa.gov/causes/.
+* "What Is Net Zero? - Net Zero Climate". Net Zero Climate, 2021, https://netzeroclimate.org/what-is-net-zero/.

@@ -38,7 +38,7 @@ All png images created for this project
 
 #### Websites for DataSets
 * [Net_generation_for_electric_power.csv](https://www.eia.gov/electricity/monthly/)
-* [ca_emissions.csv]()
+* [ca_emissions.csv](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-electrical-energy-generation)
 * [ca_energy_gen.csv](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-electrical-energy-generation)
 * [use_tot_realgdp.csv](https://www.eia.gov/state/seds/seds-data-complete.php?sid=CA#StatisticsIndicators)
 

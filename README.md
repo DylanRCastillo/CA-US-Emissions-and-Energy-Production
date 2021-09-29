@@ -61,7 +61,7 @@ The goal of this project is to analyze and visualize all the data collected to r
 * Power plants do not represent a big percentage of total CO2 emissions on California.
 * California is doing a great job switching to renewable energy
 * Hopefully reaching 100% renewable energy production by 2045 as Governor Jerry Brown stated on the law passed on September 10th, 2018.
-* If we want to reduce CO2 emissions to net zero, we need to invest and reduce emissions mainly from the transportation sector
+* If we want to reduce CO2 emissions to net zero, we need to invest and reduce emissions mainly from the transportation sector which corresponded to 39.71% of the total CO2 emissions whereas Power plants CO2 emissions only counted for 14.06% of the total.
 
 ![](https://github.com/DylanRCastillo/CA-US-Emissions-and-Energy-Production/blob/main/Images/ca_emissions_decrease.png)
 

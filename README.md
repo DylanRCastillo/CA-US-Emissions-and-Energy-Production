@@ -117,7 +117,7 @@ All png images created for this project
 * "What Is Net Zero? - Net Zero Climate". Net Zero Climate, 2021, https://netzeroclimate.org/what-is-net-zero/.
 
 ## Contributors
-[Rodrigo Lizaran Molina](https://github.com/Rlizaran)
-[Shaun Ochenduszko](https://github.com/ShaunOchenduszko)
-[Dylan Castillo](https://github.com/DylanRCastillo)
-[Boris Rubel](https://github.com/brus041)
+* [Rodrigo Lizaran Molina](https://github.com/Rlizaran)
+* [Shaun Ochenduszko](https://github.com/ShaunOchenduszko)
+* [Dylan Castillo](https://github.com/DylanRCastillo)
+* [Boris Rubel](https://github.com/brus041)
